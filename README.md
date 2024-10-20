@@ -83,6 +83,8 @@ start - Check if the bot is running.
 viewthumb - To view current thumbnail.
  
 delthumb - To delete current thumbnail.
+
+metadata - To configure your metadata tags.
  
 set_caption - set a custom caption.
  
